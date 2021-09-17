@@ -1,4 +1,4 @@
-# interview-prep
+# Interview-prep
 
 Memory Management
 https://deepu.tech/memory-management-in-jvm/
